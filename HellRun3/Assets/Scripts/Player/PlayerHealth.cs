@@ -22,6 +22,7 @@ public class PlayerHealth : MonoBehaviour
 
     public GameObject currentSpawnPoint;
     int spawnHeight = 3;
+	Animator animCP;
 
     public bool hasSoul = true;
     bool canDie = true;
@@ -163,6 +164,16 @@ public class PlayerHealth : MonoBehaviour
 
     public void setSpawnPoint(GameObject CP)
     {
+		Debug.Log ("Setting a new spawn point");
+		if (currentSpawnPoint != GameObject.FindGameObjectWithTag ("StartPoint")) 
+		{
+			animCP = currentSpawnPoint.GetComponent<Animator>();
+			animCP.SetBool("startCP", false);
+			animCP.SetBool("resetCP", true);
+
+			currentSpawnPoint.GetComponent<CheckPoint>().alreadyTouched = false;
+
+		}
         currentSpawnPoint = CP;
     }
 

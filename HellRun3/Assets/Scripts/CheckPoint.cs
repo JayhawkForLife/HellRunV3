@@ -13,12 +13,10 @@ public class CheckPoint : MonoBehaviour
     Animator anim;
     GameObject player;
 
-    GameObject pHealth;
     public PlayerHealth pH;
 
-    public bool startCP = false;
     bool playerOnCP = false;
-    bool alreadyTouched = false;
+    public bool alreadyTouched = false;
 
 
 
@@ -33,11 +31,15 @@ public class CheckPoint : MonoBehaviour
 
     void Update()
     {
+		if (anim.GetCurrentAnimatorStateInfo (0).IsName ("Checkpoint_Idle")) 
+		{
+			anim.SetBool("resetCP", false);
+		}
+		
         if (playerOnCP && !alreadyTouched)
         {
             alreadyTouched = true;
-            startCP = true;
-            anim.SetBool("startCP", startCP);
+            anim.SetBool("startCP", true);
 
             pH.setSpawnPoint(this.gameObject);
         }
@@ -51,4 +53,13 @@ public class CheckPoint : MonoBehaviour
 
         }
     }
+
+	void OnTriggerExit2D(Collider2D other)
+	{
+		if (other.tag == "Player")
+		{
+			playerOnCP = false;
+			
+		}
+	}
 }
