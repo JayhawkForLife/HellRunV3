@@ -1,0 +1,795 @@
+fileFormatVersion: 2
+guid: 0b3c988884b89904993aac2c106d27d7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Idle_1
+    21300002: Idle_2
+    21300004: Idle_3
+    21300006: Attack_2
+    21300008: Demon_PoisonBall
+    21300010: Demon_5
+    21300012: Demon_6
+    21300014: Demon_7
+    21300016: Demon_8
+    21300018: Demon_9
+    21300020: Demon_10
+    21300022: Demon_11
+    21300024: Demon_12
+    21300026: Demon_13
+    21300028: Demon_14
+    21300030: Demon_15
+    21300032: Demon_16
+    21300034: Demon_17
+    21300036: Demon_18
+    21300038: Demon_19
+    21300040: Demon_20
+    21300042: Demon_21
+    21300044: Demon_22
+    21300046: Demon_23
+    21300048: Demon_24
+    21300050: Demon_25
+    21300052: Demon_26
+    21300054: Demon_27
+    21300056: Demon_28
+    21300058: Demon_29
+    21300060: Demon_30
+    21300062: Demon_31
+    21300064: Demon_32
+    21300066: Run_1
+    21300068: Run_2
+    21300070: Run_3
+    21300072: Run_4
+    21300074: Run_5
+    21300076: Run_6
+    21300078: Demon_39
+    21300080: Demon_40
+    21300082: Demon_41
+    21300084: Demon_42
+    21300086: Demon_43
+    21300088: Demon_44
+    21300090: Attack_1
+    21300092: Demon_46
+    21300094: Demon_47
+    21300096: Demon_48
+    21300098: Demon_49
+    21300100: Demon_50
+    21300102: Demon_51
+    21300104: Demon_52
+    21300106: Demon_53
+    21300108: Demon_54
+    21300110: Demon_55
+    21300112: Demon_56
+    21300114: Demon_57
+    21300116: Demon_58
+    21300118: Demon_59
+    21300120: Demon_60
+    21300122: Death_1
+    21300124: Death_2
+    21300126: Death_3
+    21300128: Death_4
+    21300130: Death_5
+    21300132: Death_6
+    21300134: Death_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Idle_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 316
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 316
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 313
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 317
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_PoisonBall
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 336
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 315
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 345
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_7
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 342
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_8
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 345
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 345
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_10
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 345
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_11
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 345
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_12
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 345
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_13
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 342
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_14
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 342
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_15
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 345
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 345
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_17
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 345
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 342
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_19
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 330
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_20
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 330
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_21
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 330
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 330
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_23
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 330
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_24
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 330
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 330
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_26
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 330
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_27
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 330
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_28
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 327
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_29
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 330
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_30
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 330
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_31
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 330
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_32
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 327
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 267
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 267
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 267
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 266
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 264
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_6
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 266
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_39
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 259
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 213
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_41
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 217
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_42
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 218
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_43
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 217
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_44
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 218
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 219
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_46
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 219
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_47
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 167
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 168
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_49
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 162
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_50
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 162
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_51
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 104
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_52
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 103
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 111
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_54
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 107
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_55
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 54
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_56
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 55
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_57
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 56
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_58
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 59
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_59
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 48
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Demon_60
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 46
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 4
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_5
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 2
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_6
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 3
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_7
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 3
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

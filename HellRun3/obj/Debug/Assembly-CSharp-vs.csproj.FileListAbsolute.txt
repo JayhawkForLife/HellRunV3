@@ -1,0 +1,11 @@
+C:\Users\Eli\Documents\Hell Run\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Eli\Documents\Hell Run\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Eli\Documents\Hell Run\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Eli\Documents\Hell Run\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Eli\Documents\Hell Run\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Eli\Documents\Hell Run\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Eli\Documents\Hell Run\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Eli\Documents\Hell Run\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Eli\Documents\Hell Run\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Eli\Documents\Hell Run\obj\Debug\Assembly-CSharp.dll
+C:\Users\Eli\Documents\Hell Run\obj\Debug\Assembly-CSharp.pdb

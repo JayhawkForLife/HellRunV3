@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: a5729bb5f0781e542a10c9138f4e0ec0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Vito_1
+    21300002: Running_0
+    21300004: Running_1
+    21300006: Running_2
+    21300008: Running_3
+    21300010: Running_4
+    21300012: Running_5
+    21300014: Idle
+    21300016: Shooting
+    21300018: Reloading_0
+    21300020: Reloading_1
+    21300022: Vito_47
+    21300024: Vito_48
+    21300026: Vito_49
+    21300028: Vito_50
+    21300030: Vito_51
+    21300032: Vito_52
+    21300034: Vito_53
+    21300036: Vito_54
+    21300038: Vito_55
+    21300040: Vito_56
+    21300042: Vito_57
+    21300044: Down1_0
+    21300046: Vito_59
+    21300048: Vito_60
+    21300050: Down1_1
+    21300052: Down1_2
+    21300054: Down2_0
+    21300056: Down2_1
+    21300058: Down2_2
+    21300060: Vito_66
+    21300062: Vito_67
+    21300064: Vito_68
+    21300066: Vito_69
+    21300068: Vito_70
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Vito_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 144
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Running_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 85
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Running_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 86
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Running_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 85
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Running_3
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 85
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Running_4
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 85
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Running_5
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 85
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 85
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shooting
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 85
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reloading_0
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 85
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reloading_1
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 85
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vito_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 69
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vito_48
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 69
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vito_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 69
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vito_50
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 69
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vito_51
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 69
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vito_52
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 69
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vito_53
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 69
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vito_54
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 69
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vito_55
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 69
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vito_56
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 69
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vito_57
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 66
+        width: 93
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Down1_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 17
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vito_59
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 51
+        width: 206
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vito_60
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 51
+        width: 96
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Down1_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 22
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Down1_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 17
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Down2_0
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 17
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Down2_1
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 7
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Down2_2
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vito_66
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 2
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vito_67
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vito_68
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 2
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vito_69
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vito_70
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 3
+        width: 123
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

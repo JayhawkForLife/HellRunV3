@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 18a0d3d8f4262de41861bdadd3c68982
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bomb9
+    21300002: Bomb5
+    21300004: Bomb7
+    21300006: Bomb11
+    21300008: Bomb8
+    21300010: Bomb2
+    21300012: Bomb4
+    21300014: Bomb10
+    21300016: Bomb6
+    21300018: Bomb3
+    21300020: Bomb1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Bomb9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 836
+        width: 256
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomb5
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 826
+        width: 210
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomb7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 633
+        width: 281
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomb11
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 652
+        width: 182
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomb8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 432
+        width: 278
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomb2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 515
+        width: 70
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomb4
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 519
+        width: 74
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomb10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 271
+        width: 183
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomb6
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 190
+        width: 239
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomb3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 52
+        width: 76
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bomb1
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 400
+        width: 67
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

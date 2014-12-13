@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: a3bfddebbb7dd364dbdbed555dab0339
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Idle_1
+    21300002: Idle_2
+    21300004: Idle_3
+    21300006: Run_1
+    21300008: Run_2
+    21300010: Run_3
+    21300012: Run_4
+    21300014: Run_5
+    21300016: Attack_1
+    21300018: Attack_2
+    21300020: Attack_3
+    21300022: Attack_4
+    21300024: Attack_5
+    21300026: Attack_6
+    21300028: Death_1
+    21300030: Death_2
+    21300032: Death_3
+    21300034: Death_4
+    21300036: Death_5
+    21300038: Death_6
+    21300040: Death_7
+    21300042: Guard Dog_21
+    21300044: Guard Dog_22
+    21300046: Guard Dog_23
+    21300048: Guard Dog_24
+    21300050: Guard Dog_25
+    21300052: Guard Dog_26
+    21300054: Guard Dog_27
+    21300056: Guard Dog_28
+    21300058: Guard Dog_29
+    21300060: Guard Dog_30
+    21300062: Guard Dog_31
+    21300064: Guard Dog_32
+    21300066: Guard Dog_33
+    21300068: Guard Dog_34
+    21300070: Guard Dog_35
+    21300072: Guard Dog_36
+    21300074: Guard Dog_37
+    21300076: Guard Dog_38
+    21300078: Guard Dog_39
+    21300080: Guard Dog_40
+    21300082: Guard Dog_41
+    21300084: Guard Dog_42
+    21300086: Guard Dog_43
+    21300088: Guard Dog_44
+    21300090: Guard Dog_45
+    21300092: Guard Dog_46
+    21300094: Guard Dog_47
+    21300096: Guard Dog_48
+    21300098: Guard Dog_49
+    21300100: Guard Dog_50
+    21300102: Guard Dog_51
+    21300104: Guard Dog_52
+    21300106: Guard Dog_53
+    21300108: Guard Dog_54
+    21300110: Guard Dog_55
+    21300112: Guard Dog_56
+    21300114: Guard Dog_57
+    21300116: Guard Dog_58
+    21300118: Guard Dog_59
+    21300120: Guard Dog_60
+    21300122: Guard Dog_61
+    21300124: Guard Dog_62
+    21300126: Guard Dog_63
+    21300128: Guard Dog_64
+    21300130: Guard Dog_65
+    21300132: Guard Dog_66
+    21300134: Guard Dog_67
+    21300136: Guard Dog_68
+    21300138: Guard Dog_69
+    21300140: Guard Dog_70
+    21300142: Guard Dog_71
+    21300144: Guard Dog_72
+    21300146: Guard Dog_73
+    21300148: Guard Dog_74
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Idle_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 211
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 211
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 210
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 163
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 163
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 162
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 164
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 165
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 105
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 106
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 109
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 110
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 107
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack_6
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 109
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 51
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 56
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 58
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 57
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 58
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_6
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 55
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 57
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 33
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_22
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_23
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 33
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_24
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 26
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_26
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 33
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_27
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 26
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_28
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 33
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 33
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_30
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 26
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_31
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_32
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_33
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_34
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_36
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_37
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_38
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_39
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 33
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_40
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 33
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_42
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 21
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_43
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 26
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_44
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 26
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_45
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 19
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_46
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 26
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_47
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 26
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_48
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 26
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_49
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 26
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_50
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 26
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_51
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 26
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_52
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 26
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_53
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 26
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_54
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 19
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_55
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 26
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_56
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 26
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_57
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 26
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_58
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 19
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_59
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 19
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_60
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_61
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 19
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_62
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 19
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_63
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 12
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_64
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_65
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_66
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_67
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_68
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 19
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_69
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 19
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_70
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 12
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_71
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 12
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_72
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 12
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_73
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 12
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guard Dog_74
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 12
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

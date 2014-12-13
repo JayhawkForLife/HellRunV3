@@ -1,0 +1,696 @@
+fileFormatVersion: 2
+guid: 276d2a479ec4b1d4a85736bb1a0c127d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DevilDog_0
+    21300002: DevilDog_1
+    21300004: DevilDog_2
+    21300006: DevilDog_3
+    21300008: DevilDog_4
+    21300010: DevilDog_5
+    21300012: DevilDog_6
+    21300014: DevilDog_7
+    21300016: DevilDog_8
+    21300018: DevilDog_9
+    21300020: DevilDog_10
+    21300022: DevilDog_11
+    21300024: DevilDog_12
+    21300026: DevilDog_13
+    21300028: DevilDog_14
+    21300030: DevilDog_15
+    21300032: DevilDog_16
+    21300034: DevilDog_17
+    21300036: DevilDog_18
+    21300038: DevilDog_19
+    21300040: DevilDog_20
+    21300042: DevilDog_21
+    21300044: Idle_1
+    21300046: Idle_2
+    21300048: Idle_3
+    21300050: Idle_4
+    21300052: DevilDog_26
+    21300054: DevilDog_27
+    21300056: DevilDog_28
+    21300058: DevilDog_29
+    21300060: DevilDog_30
+    21300062: DevilDog_31
+    21300064: DevilDog_32
+    21300066: DevilDog_33
+    21300068: DevilDog_34
+    21300070: DevilDog_35
+    21300072: DevilDog_36
+    21300074: DevilDog_37
+    21300076: DevilDog_38
+    21300078: DevilDog_39
+    21300080: DevilDog_40
+    21300082: DevilDog_41
+    21300084: DevilDog_42
+    21300086: Run_1
+    21300088: Run_3
+    21300090: Run_4
+    21300092: Run_5
+    21300094: Run_6
+    21300096: DevilDog_48
+    21300098: DevilDog_49
+    21300100: Attack_1
+    21300102: Attack_3
+    21300104: Death_1
+    21300106: Death_2
+    21300108: Death_3
+    21300110: DevilDog_55
+    21300112: DevilDog_56
+    21300114: Run_2
+    21300116: Attack_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: DevilDog_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 248
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 246
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 246
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 246
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 245
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 253
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 253
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 253
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_8
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 253
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_9
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 253
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 251
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 253
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_12
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 253
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_13
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 253
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_14
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 253
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_15
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 251
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_16
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 238
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_17
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 238
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_18
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 238
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_19
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 238
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_20
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 238
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_21
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 238
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 195
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 197
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 198
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 195
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_26
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 223
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_27
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 221
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_28
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 221
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_29
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 223
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 223
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_31
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 223
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_32
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 221
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_33
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 223
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_34
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 223
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_35
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 221
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_36
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 221
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_37
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 223
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_38
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 223
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_39
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 150
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_40
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 150
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_41
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 148
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_42
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 148
+        width: 58
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 102
+        width: 59
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 102
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 104
+        width: 59
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_6
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 104
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 61
+        width: 57
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_49
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 61
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 51
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack_3
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 51
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Death_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_55
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilDog_56
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 102
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 48
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
