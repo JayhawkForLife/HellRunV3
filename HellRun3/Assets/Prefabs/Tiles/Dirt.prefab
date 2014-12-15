@@ -11,7 +11,7 @@ GameObject:
   - 212: {fileID: 21200000}
   m_Layer: 8
   m_Name: DirtBackDrop
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28,7 +28,7 @@ GameObject:
   - 61: {fileID: 6100000}
   m_Layer: 8
   m_Name: DirtGraphic
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43,7 +43,7 @@ GameObject:
   - 4: {fileID: 400004}
   m_Layer: 8
   m_Name: Dirt
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -59,7 +59,7 @@ GameObject:
   - 212: {fileID: 21200004}
   m_Layer: 8
   m_Name: grass
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -124,7 +124,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 10.2399998, y: 10.2399998}
   m_Center: {x: 0, y: 0}
 --- !u!212 &21200000
 SpriteRenderer:
